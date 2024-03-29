@@ -1,1 +1,1 @@
-# BookBot is my first git project!
+# BookBot is a simple word counting script
